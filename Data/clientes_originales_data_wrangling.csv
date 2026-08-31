@@ -1,0 +1,124 @@
+﻿ID,Nombre,Edad,Ciudad,Genero,Categoria,Compras,ValorCompra,Estado
+1,Ana García,58.0,Medellín,Masculino,Básica,4,1200000.0,Activo
+2,Carlos Rodríguez,65.0,Medellín,Masculino,Corporativo,1,150000.0,Activo
+3,  Laura Martínez  ,31.0,Cali,Masculino,Estándar,12,5500000.0,Inactivo
+4,Juan Pérez,32.0,Quibdó,Femenino,Premium,3,3200000.0,Inactivo
+5,Mariana López,35.0,Cali,Masculino,premium,2,300000.0,Inactivo
+6,Andrés Gómez,24.0,medellin,Femenino,Básica,1,4500000.0,Activo
+7,Sofía Torres,42.0,Medellín,Femenino,Básica,10,1200000.0,activo
+8,Daniel Ramírez,,Barranquilla,Masculino,Básica,2,1200000.0,Activo
+9,Valentina Castro,42.0,Bogotá,M,Básica,3,2500000.0,Inactivo
+10,Sebastián Moreno,31.0,Barranquilla,Femenino,Premium,10,750000.0,Activo
+11,Camila Herrera,28.0,Quibdó,Femenino,Básica,11,5500000.0,Activo
+12,Mateo Sánchez,61.0,MEDELLIN,Masculino,Estándar,1,2500000.0,Inactivo
+13,Isabella Rojas,35.0,Medellín,Masculino,Básica,4,4500000.0,Inactivo
+14,Nicolás Vargas,59.0,Quibdó,Masculino,PREMIUM,3,1200000.0,Inactivo
+15,Gabriela Jiménez,65.0,  Cartagena  ,Femenino,Corporativo,6,1200000.0,Activo
+16,David Restrepo,50.0,Quibdó,Masculino,Premium,2,750000.0,Activo
+17,Manuela Ortiz,68.0,Barranquilla,F,Premium,7,3200000.0,Inactivo
+18,Felipe Cárdenas,51.0,Bogotá,Masculino,Premium,11,5500000.0,Inactivo
+19,Sara Medina,67.0,,Femenino,Premium,5,3200000.0,Activo
+20,Alejandro Ruiz,47.0,Medellín,Femenino,Estándar,9,300000.0,ACTIVO
+21,Natalia Suárez,58.0, Medellin ,Masculino,Estándar,6,750000.0,Activo
+22,Santiago Arias,56.0,Bogotá,Femenino,Premium,2,2500000.0,Inactivo
+23,Juliana Vélez,33.0,Medellín,Masculino,Estandar,2,4500000.0,Activo
+24,Miguel Álvarez,66.0,Cartagena,Masculino,Estándar,11,4500000.0,Activo
+25,Paula Muñoz,34.0,Cartagena,Femenino,Estándar,0,1200000.0,Inactivo
+26,Jorge Valencia,43.0,Barranquilla,  Femenino  ,Corporativo,9,4500000.0,Activo
+27,Daniela Salazar,33.0,Cali,Masculino,Básica,1,7200000.0,Activo
+28,Esteban Navarro,55.0,Cali,masculino,Premium,12,150000.0,Activo
+29,Lucía Molina,22.0,Medellín,Femenino,Premium,9,1200000.0,Inactivo
+30,Tomás Ramírez,60.0,cali,Masculino,Estándar,12,7200000.0,Inactivo
+31,Carolina Franco,33.0,Quibdó,Femenino,Estándar,2,300000.0,inactivo
+32,Samuel Pineda,40.0,Quibdó,,Corporativo,12,150000.0,Activo
+33,Elena Quintero,21.0,Quibdó,Femenino,Premium,4,1200000.0,Activo
+34,Martín Cabrera,52.0,Quibdó,Masculino,estándar,3,1800000.0,Inactivo
+35,Victoria Ospina,33.0,Medellín,Femenino,Premium,1,5500000.0,Activo
+36,Luis Montoya,23.0,Cali,FEMENINO,Corporativo,8,4500000.0,Activo
+37,Andrea Duque,43.0,Medellín,Masculino,Corporativo,1,-250000.0,Inactivo
+38,Ricardo Correa,68.0,Quibdó,Femenino,Corporativo,12,5500000.0,Inactivo
+39,Mónica Giraldo,27.0,Cali,Femenino,  Estándar  ,1,7200000.0,Activo
+40,Cristian Zapata,65.0,Bogotá,Masculino,Premium,10,4500000.0,Activo
+41,Laura Bedoya,15.0,Cartagena,Masculino,Estándar,2,7200000.0,Activo
+42,Óscar Marín,61.0,CALI,Femenino,Premium,10,1200000.0,Activo
+43,Diana Restrepo,57.0,Medellín,Femenino,Básica,5,1200000.0,Inactivo
+44,Julián Mejía,33.0,Bogotá,Femenino,Estándar,11,1800000.0,Inactivo
+45,Adriana Pérez,38.0,Medellín,Hombre,Corporativo,10,7200000.0,Activo
+46,Kevin López,22.0,Cartagena,Masculino,Básica,3,2500000.0,Activo
+47,Tatiana Gómez,33.0,Bogotá,Femenino,Estándar,8,5500000.0,INACTIVO
+48,Brayan Torres,57.0,Barranquilla,Masculino,,11,300000.0,Activo
+49,Melissa Castro,34.0,Medellín,Masculino,Estándar,5,1800000.0,Activo
+50,Diego Herrera,63.0,Bogotá,Masculino,BASICA,9,4500000.0,Inactivo
+51,Luisa Sánchez,21.0,Medellín,Femenino,Básica,1,150000.0,Inactivo
+52,Juan Esteban Rojas,67.0,Cali,Femenino,Estándar,12,4500000.0,Inactivo
+53,Karen Vargas,53.0, bogota ,Masculino,Premium,12,750000.0,Activo
+54,Felipe Jiménez,41.0,Cartagena,Masculino,Corporativo,3,150000.0,Inactivo
+55,Sara Moreno,41.0,Medellín,Femenino,Estándar,11,1200000.0,Activo
+56,Alejandro Ortiz,40.0,Cartagena,Femenino,Estándar,4,750000.0,  Activo  
+57,Paola Cárdenas,44.0,Medellín,Masculino,Básica,7,1200000.0,Inactivo
+58,Sebastián Medina,28.0,Barranquilla,Masculino,Corporativo,1,4500000.0,Activo
+59,Valeria Ruiz,30.0,Quibdó,Mujer,Básica,4,1200000.0,Activo
+60,Mauricio Suárez,60.0,Cali,Femenino,Básica,0,300000.0,Inactivo
+61,Camilo Arias,40.0,Barranquilla,Femenino,Básica,1,300000.0,Inactivo
+62,María Vélez,29.0,Cartagena,Femenino,basica,2,7200000.0,Inactivo
+63,David Álvarez,40.0,Barranquilla,Femenino,Corporativo,10,5500000.0,Activo
+64,Isabel Muñoz,42.0,Cartagena,Masculino,Básica,1,3200000.0,
+65,Jhon Valencia,51.0,Cartagena,Masculino,Básica,7,300000.0,Inactivo
+66,Laura Salazar,57.0,Bogotá,Masculino,Básica,9,1800000.0,Inactivo
+67,Andrés Navarro,38.0,Quibdó,Femenino,Estándar,4,3200000.0,Inactivo
+68,Claudia Molina,61.0,BOGOTA,Masculino,Básica,7,5500000.0,Activo
+69,Mateo Franco,37.0,Bogotá,Masculino,Corporativo,10,7200000.0,Inactivo
+70,Sofía Pineda,47.0,Quibdó,Femenino,Estándar,9,4500000.0,Activo
+71,Nicolás Quintero,60.0,Medellín,Femenino,Básica,2,1200000.0, activo 
+72,Gabriela Cabrera,32.0,Cali,Masculino,Premium,1,1200000.0,Inactivo
+73,Juan Ospina,57.0,Medellín,Femenino,Corporativo,11,-800000.0,Activo
+74,Manuela Montoya,63.0,Barranquilla, masculino ,Corporativo,7,1200000.0,Activo
+75,Carlos Duque,59.0,Barranquilla,Masculino,Premium,7,1200000.0,Activo
+76,Natalia Correa,69.0,Barranquilla,Femenino,corporativo ,9,1200000.0,Activo
+77,Santiago Giraldo,47.0,Cali,Femenino,Básica,8,7200000.0,Inactivo
+78,Juliana Zapata,53.0,Quibdó,Masculino,Corporativo,8,1800000.0,Activo
+79,Miguel Bedoya,58.0,quibdo,Femenino,Estándar,5,4500000.0,Activo
+80,Paula Marín,63.0,Bogotá,Masculino,Básica,6,2500000.0,Activo
+81,Jorge Mejía,26.0,Cali,Masculino,Corporativo,12,750000.0,Activo
+82,Daniela Pérez,22.0,Quibdó,Femenino,Básica,9,4500000.0,Inactivo
+83,Esteban López,104.0,Cali,Femenino,Corporativo,10,150000.0,Inactivo
+84,Lucía Gómez,48.0,Medellín,Femenino,Básica,7,3200000.0,Activo
+85,Tomás Torres,49.0,Cali,Femenino,CORPORATIVO,8,150000.0,Inactivo
+86,Carolina Castro,39.0,Barranquilla,Femenino,Estándar,8,750000.0,Activo
+87,Samuel Herrera,43.0,Cartagena,Masculino,Premium,11,3200000.0,Activo
+88,Elena Sánchez,47.0,Cali,Masculino,Básica,7,2500000.0,Activo
+89,Martín Rojas,47.0,Bogotá,Femenino,Corporativo,5,3200000.0,inactivo 
+90,Victoria Vargas,23.0,Quibdó,Masculino,Premium,6,,Activo
+91,Luis Jiménez,67.0,Barranquilla,Masculino,Premium,4,1200000.0,Activo
+92,Andrea Moreno,57.0,Cali, femenino ,Estándar,8,300000.0,Activo
+93,Ricardo Ortiz,47.0,Barranquilla,Femenino,Básica,3,7200000.0,Activo
+94,Mónica Cárdenas,67.0,Cali,Femenino,Premium,10,150000.0,Inactivo
+95,Cristian Medina,54.0,Barranquilla,Femenino,Corporativo,12,1200000.0,Activo
+96,Diana Ruiz,55.0,Barranquilla,Masculino,Premium,12,1800000.0,Activo
+97,Julián Suárez,68.0,QUIBDÓ,Masculino,Básica,9,3200000.0,Inactivo
+98,Adriana Arias,22.0,Cartagena,Femenino,Premium,7,4500000.0,Activo
+99,Kevin Vélez,45.0,Bogotá,Femenino,Estándar,7,750000.0,Inactivo
+100,Tatiana Álvarez,57.0,Cartagena,Femenino,Corporativo,7,7200000.0,Inactivo
+101,Melissa Muñoz,38.0,Cali,Masculino,Básica,8,1200000.0,Inactivo
+102,Diego Valencia,54.0,Cartagena,Femenino,Básica,0,4500000.0,Inactivo
+103,Luisa Salazar,29.0,Quibdó,Masculino,Básica,5,2500000.0,Inactivo
+104,Brayan Navarro,56.0,Barranquilla,Femenino,Premium,9,1200000.0,Activo
+105,Karen Molina,33.0,Barranquilla,Femenino,Corporativo,9,1200000.0,Inactivo
+106,Felipe Franco,59.0,Barranquilla,Femenino,Corporativo,1,300000.0,Inactivo
+107,Valeria Pineda,32.0,Quibdó,Masculino,Básica,11,7200000.0,Inactivo
+108,Mauricio Quintero,48.0,Cartagena,Femenino,Corporativo,12,5500000.0,Inactivo
+109,Camilo Cabrera,-3.0,Barranquilla,Femenino,Básica,5,1800000.0,Activo
+110,María Ospina,25.0,Barranquilla,Masculino,Básica,2,5500000.0,Activo
+111,Jhon Montoya,30.0,Cali,Femenino,Básica,12,7200000.0,Inactivo
+112,Claudia Duque,24.0,Cali,Femenino,Estándar,6,750000.0,Inactivo
+113,Mateo Correa,18.0,Barranquilla,Masculino,Básica,1,150000.0,Inactivo
+114,Sofía Giraldo,62.0,Cali,Femenino,Premium,1,7200000.0,Inactivo
+115,Andrés Zapata,48.0,Quibdó,Femenino,Básica,3,-1500000.0,Inactivo
+116,Laura Bedoya,48.0,Medellín,Masculino,Corporativo,8,300000.0,Activo
+117,Nicolás Marín,27.0,Cali,Femenino,Premium,4,300000.0,Inactivo
+118,Gabriela Mejía,56.0,Cartagena,Masculino,Corporativo,8,4500000.0,Inactivo
+119,Juan Pérez,55.0,Quibdó,Femenino,Premium,10,300000.0,Activo
+120,Ana García,58.0,Cali,Femenino,Premium,3,1200000.0,Activo
+121,Carlos Rodríguez,53.0,Medellín,Masculino,Premium,7,4500000.0,Inactivo
+13,Isabella Rojas,35.0,Medellín,Masculino,Básica,4,4500000.0,Inactivo
+58,Sebastián Medina,28.0,Barranquilla,Masculino,Corporativo,1,4500000.0,Activo

@@ -1,0 +1,28 @@
+# Entorno virtual de Python
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de configuración local
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos generados
+reports/*.csv
+reports/*.xlsx
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
